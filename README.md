@@ -1,3 +1,2 @@
-This is a placeholder README.md file
+I am building a google homepage for my WebDevelopment Odin Project class.
 
-this is Annette's first git project. . .kind of.
